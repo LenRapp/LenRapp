@@ -62,9 +62,4 @@
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-
-
-Visitor count  
-[![](https://camo.githubusercontent.com/f976dd1224b95edd36df243b09e8081c19a5d99db7bd0f9ac677ae772c7d67a8/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f436170656c6c654761622f636f756e742e737667)](https://camo.githubusercontent.com/f976dd1224b95edd36df243b09e8081c19a5d99db7bd0f9ac677ae772c7d67a8/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f436170656c6c654761622f636f756e742e737667)
-
 ###
