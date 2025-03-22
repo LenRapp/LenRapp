@@ -26,7 +26,7 @@
 
 
  <h1 align="center">I'm Lenny Rap</h1>
- <h3 align="center">Passionate frontend developer from France</h3>
+ <h3 align="center">Passionate frontend and backend developer from France</h3>
 Hi, I'm Lenny, a 19-year-old computer science student. Passionate about building projects and learning new technologies, I share various open-source projects here. Have fun !!!
 
  - 🔭 I'm currently working on a [SnakeGame](https://github.com/LenRapp/SnakeGame).
