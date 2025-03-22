@@ -25,21 +25,19 @@
 ###
 
 
- <h1 align="center">Hi 👋, I'm Jeremy Bitton</h1>
+ <h1 align="center">I'm Lenny Rap</h1>
  <h3 align="center">A passionate frontend developer from France</h3>
- ### Hi, I'm Jeremy, currently 21 years old. I'm a student in computer science, and I love creating projects and learning new things. On this GitHub, you'll find various open-source projects. Have fun!
+ ### Hi, I'm Lenny, a 19-year-old computer science student. Passionate about building projects and learning new technologies, I share various open-source projects here. Have fun !!!
 
 <h3 align="left">Connect with me:</h3>
  <p align="left">
- <a href="https://linkedin.com/in/jeremybitton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeremybitton" height="30" width="40" /></a>
+ <a href="www.linkedin.com/in/lenrapp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lennyrap" height="30" width="40" /></a>
  </p>
- - 🔭 I'm currently working on a [CollabHub](https://github.com/JeremyBitton/CollabHub).
- - 💻 I use Python[Idle Python](https://www.python.com/python/) [IntelliJ IDEA](https://www.jetbrains.com/idea/), [PHPStorm](https://www.jetbrains.com/phpstorm/), and [Docker](https://www.docker.com/).
+ - 🔭 I'm currently working on a [SnakeGame](https://github.com/LenRapp/SnakeGame).
+ - 💻 I use [Idle Python](https://www.python.com/python/) [IntelliJ IDEA](https://www.jetbrains.com/idea/), [PhpStorm](https://www.jetbrains.com/phpstorm/), and [Docker](https://www.docker.com/).
  - 🇫🇷 I live and study in Paris.
 
 (README inspired by [Evaninoo](https://github.com/Evaninoo))
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=JeremyBitton&theme=discord&margin-w=60&no-bg=true&no-frame=true)](https://github.com/JeremyBitton)
 
 ## 🌍 Programming languages:
 
