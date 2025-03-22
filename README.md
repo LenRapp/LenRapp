@@ -29,11 +29,6 @@
  <h3 align="center">A passionate frontend developer from France</h3>
 Hi, I'm Lenny, a 19-year-old computer science student. Passionate about building projects and learning new technologies, I share various open-source projects here. Have fun !!!
 
-<h3 align="left">Connect with me:</h3>
- <p align="left">
- <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" href="www.linkedin.com/in/lenrapp" />
- </p>
-
  - 🔭 I'm currently working on a [SnakeGame](https://github.com/LenRapp/SnakeGame).
  - 💻 I use [Idle Python](https://www.python.com/python/) [IntelliJ IDEA](https://www.jetbrains.com/idea/), [PhpStorm](https://www.jetbrains.com/phpstorm/), and [Docker](https://www.docker.com/).
  - 🇫🇷 I live and study in Paris.
