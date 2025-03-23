@@ -29,8 +29,10 @@
  <h3 align="center">Passionate frontend and backend developer from France</h3>
 Hi, I'm Lenny, a 19-year-old computer science student. Passionate about building projects and learning new technologies, I share various open-source projects here. Have fun !!!
 
+
+
  - 🔭 I'm currently working on a [SnakeGame](https://github.com/LenRapp/SnakeGame).
- - 💻 I use [Idle Python](https://www.python.com/python/) [IntelliJ IDEA](https://www.jetbrains.com/idea/), [PhpStorm](https://www.jetbrains.com/phpstorm/), and [Docker](https://www.docker.com/).
+ - 💻 I use [Idle Python](https://www.python.com/python/), [JetBrains IDLE](https://www.jetbrains.com/idea/), and [Docker](https://www.docker.com/).
  - 🇫🇷 I live and study in Paris.
 
 (README inspired by [Evaninoo](https://github.com/Evaninoo))
@@ -43,6 +45,16 @@ Hi, I'm Lenny, a 19-year-old computer science student. Passionate about building
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+
+## ⚙️ Programming Tools:
+![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
 ## 📦 Databases:
