@@ -32,7 +32,7 @@ Hi, I'm Lenny, a 19-year-old computer science student. Passionate about building
 
 
  - 🔭 I'm currently working on a [SnakeGame](https://github.com/LenRapp/SnakeGame).
- - 💻 I use [Idle Python](https://www.python.com/python/), [JetBrains IDLE](https://www.jetbrains.com/idea/), and [Docker](https://www.docker.com/).
+ - 💻 I use [JetBrains IDLE](https://www.jetbrains.com/idea/), and [Docker](https://www.docker.com/).
  - 🇫🇷 I live and study in Paris.
 
 (README inspired by [CapelleGab](https://github.com/CapelleGab))
