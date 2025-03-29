@@ -37,7 +37,7 @@ Hi, I'm Lenny, a 19-year-old computer science student. Passionate about building
 
 (README inspired by [CapelleGab](https://github.com/CapelleGab))
 
-📑 Currently Learning:
+## 📑 Currently Learning:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
