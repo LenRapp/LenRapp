@@ -26,7 +26,7 @@
 
 
  <h1 align="center">I'm Lenny Rap</h1>
- <h3 align="center">Passionate frontend and backend developer from France</h3>
+ <h3 align="center"> Frontend and Backend developer from France</h3>
 Hi, I'm Lenny, a 19-year-old computer science student. Passionate about building projects and learning new technologies, I share various open-source projects here. Have fun !!!
 
 
@@ -37,23 +37,26 @@ Hi, I'm Lenny, a 19-year-old computer science student. Passionate about building
 
 (README inspired by [CapelleGab](https://github.com/CapelleGab))
 
-## 🌍 Programming languages:
+📑 Currently Learning:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 
 
 
 ## ⚙️ Programming Tools:
 ![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IDLE](https://img.shields.io/badge/IDLE_Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
 
 
 ## 📦 Databases:
