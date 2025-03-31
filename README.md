@@ -47,7 +47,6 @@ Hi, I'm Lenny, a 19-year-old computer science student. Passionate about building
 
 
 
-
 ## ⚙️ Programming Tools:
 ![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
@@ -69,5 +68,8 @@ Hi, I'm Lenny, a 19-year-old computer science student. Passionate about building
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+## 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=LenRapp&show_icons=true&theme=dracula&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LenRapp&theme=dracula&hide_border=true" width="48%" />
 
  <img align="left" alt="My Top languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LenRapp&hide_border=true&theme=dracula" />
