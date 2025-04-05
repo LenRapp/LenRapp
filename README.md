@@ -24,9 +24,9 @@
 
 ###
 
-
  <h1 align="center">I'm Lenny Rap</h1>
- <h3 align="center"> Frontend and Backend developer from France</h3>
+ <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&vCenter=true&width=555&lines=Frontend+and+Backend+developer+from+France" alt="Typing SVG" /></a>
+ </h3>
 Hi, I'm Lenny, a 19-year-old computer science student. Passionate about building projects and learning new technologies, I share various open-source projects here. Have fun !!!
 
 
