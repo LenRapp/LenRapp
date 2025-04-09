@@ -69,13 +69,11 @@ Hi, I'm Lenny, a 19-year-old computer science student. Passionate about building
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ## 🚩 Projects:
-| Name                                                  | Link                                                | Description                                                     |
-  |-------------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------------------|
-| [Snake](https://github.com/LenRapp/SnakeGame)         | [SnakeGame](https://github.com/LenRapp/SnakeGame)   | A growing snake eats food while avoiding walls and itself.<br/> |
-| [Veliko](https://github.com/LenRapp/Veliko)           | [Veliko](https://github.com/LenRapp/Veliko)         | Real-time availability of classic and electric Vélib’ bikes.    |
-| [Search Number](https://github.com/LenRapp/Search_Number) | [Search_Number](https://github.com/LenRapp/Search_Number)     | Guess the randomly selected number between 1 and 10.                                           |
-                                   |
-
+| Name                                                      | Link                                                      | Description                                                     |
+  |-----------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------------|
+| [Snake](https://github.com/LenRapp/SnakeGame)             | [SnakeGame](https://github.com/LenRapp/SnakeGame)         | A growing snake eats food while avoiding walls and itself.<br/> |
+| [Veliko](https://github.com/LenRapp/Veliko_Web)           | [Veliko_Web](https://github.com/LenRapp/Veliko_Web)       | Real-time availability of classic and electric Vélib’ bikes.    |
+| [Search Number](https://github.com/LenRapp/Search_Number) | [Search_Number](https://github.com/LenRapp/Search_Number) | Guess the randomly selected number between 1 and 10.                                           |
 
 ## 📊 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=LenRapp&show_icons=true&theme=dracula&hide_border=true" width="48%" />
