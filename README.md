@@ -31,7 +31,7 @@ Hi, I'm Lenny, a 19-year-old computer science student. Passionate about building
 
 
 
- - 🔭 I'm currently working on a [Veliko_Web](https://github.com/LenRapp/Veliko_Web).
+ - 🔭 I'm currently working on a [Veliko_Web](https://github.com/LenRapp/Veliko_Web) and [Project_Python](https://github.com/LenRapp/Project_Python).
  - 💻 I use [JetBrains IDLE](https://www.jetbrains.com/idea/) and [Docker](https://www.docker.com/).
  - 🇫🇷 I live and study in Paris.
 
@@ -69,11 +69,13 @@ Hi, I'm Lenny, a 19-year-old computer science student. Passionate about building
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ## 🚩 Projects:
-| Name                                                      | Link                                                      | Description                                                     |
-  |-----------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------------|
-| [Snake](https://github.com/LenRapp/SnakeGame)             | [SnakeGame](https://github.com/LenRapp/SnakeGame)         | A growing snake eats food while avoiding walls and itself.<br/> |
-| [Veliko](https://github.com/LenRapp/Veliko_Web)           | [Veliko_Web](https://github.com/LenRapp/Veliko_Web)       | Real-time availability of classic and electric Vélib’ bikes.    |
-| [Search Number](https://github.com/LenRapp/Search_Number) | [Search_Number](https://github.com/LenRapp/Search_Number) | Guess the randomly selected number between 1 and 10.                                           |
+| Name                                                        | Link                                                        | Description                                                    |
+  |-------------------------------------------------------------|-------------------------------------------------------------|----------------------------------------------------------------|
+| [Snake](https://github.com/LenRapp/SnakeGame)               | [SnakeGame](https://github.com/LenRapp/SnakeGame)           | A growing snake eats food while avoiding walls and itself.<br/> |
+| [Veliko](https://github.com/LenRapp/Veliko_Web)             | [Veliko_Web](https://github.com/LenRapp/Veliko_Web)         | Real-time availability of classic and electric Vélib’ bikes.   |
+| [Search Number](https://github.com/LenRapp/Search_Number)   | [Search_Number](https://github.com/LenRapp/Search_Number)   | Guess the randomly selected number between 1 and 10.                                          |
+| [Python Project](https://github.com/LenRapp/Python_project) | [Project_Python](https://github.com/LenRapp/Project_Python) | A collection of fun and educational Python mini-projects.                                          |
+
 
 ## 📊 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=LenRapp&show_icons=true&theme=dracula&hide_border=true" width="48%" />
