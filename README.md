@@ -83,7 +83,7 @@ Hi, I'm Lenny, a 19-year-old computer science student. Passionate about building
 | Veliko        | [Veliko_Web](https://github.com/LenRapp/Veliko_Web)         | Real-time availability of classic and electric Vélib’ bikes.                       |
 | Search Number | [Search_Number](https://github.com/LenRapp/Search_Number)   | Guess the randomly selected number between 1 and 10.                               |
 | Python Project | [Python_Project](https://github.com/LenRapp/Python_Project) | A collection of fun and educational Python mini-projects.                          |
-| LennyKravitz | [LennyKravitz](https://github.com/LenRapp/LennyKravitz) | Lenny Kravitz website with videos and biography, built with Vue.js and TypeScript. |
+| LennyKravitz | [LennyKravitz](https://github.com/LenRapp/LennyKravitz) | Lenny Kravitz website with videos and biography. |
 
 
 ## 📊 GitHub Stats
