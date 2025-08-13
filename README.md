@@ -46,7 +46,6 @@ Hi, I'm Lenny, a 19-year-old computer science student. Passionate about building
 ## 📑 Currently Learning:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Twig](https://img.shields.io/badge/Twig-FFDD00?style=for-the-badge&logo=twig&logoColor=black)
