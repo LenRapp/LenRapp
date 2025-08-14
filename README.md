@@ -18,7 +18,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 About Me</h3>
 
 ###
 
@@ -29,7 +29,7 @@ Hi, I'm Lenny, a 19-year-old computer science student. Passionate about building
 
 
 
- - 🔭 I'm currently working on a [Portfolio ABEWEB](https://github.com/orelAbecassis/portfolio-tailwind).
+ - 🔭 I'm currently working on a [Mon Portfolio](https://github.com/orelAbecassis/portfolio_bts).
  - 💻 I use [JetBrains IDLE](https://www.jetbrains.com/idea/) and [Docker](https://www.docker.com/).
  - 🇫🇷 I live and study in Paris.
 
