@@ -2,15 +2,10 @@
 
 ###
 
-<div align="center">
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHFjbWliOXgxZ3pwZm1qcW00a3Q0aDFyOWoxYmhpeTh0eXh0ejNidiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.gif" width="200"/>
+</p>
 
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=LennRapp.LenRapp"  />
-</div>
 
 ###
 
